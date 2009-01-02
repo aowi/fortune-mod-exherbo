@@ -2179,7 +2179,6 @@ when you ended up in the hospital.
                  help?
 %
 < drobbins> use jpeg && IUSE="$IUSE +jpeg" || IUSE="$IUSE jpeg"
-%
 < drobbins> I would want to do use jpeg && DEPEND="$DEPEND foo[jpeg]"
             || DEPEND="$DEPEND foo" 
 < drobbins> that's what I meant to type
