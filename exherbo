@@ -2911,3 +2911,39 @@ The code. And the author. And the config files. And the direction.
            sloppy friggin' mess!
 (in #gentoo-kde)
 %
+[freenode] -christel(i=christel@freenode/staff/exherbo.christel)- 
+[Global Notice] Hi all, terribly sorry to bother you *again* but 
+regardless of how much hairdye I go through, I can't get away from 
+being blonde. Needless to say, my previous global resulted in 
+inadvertedly ddosing the machine hosting the blog and website. 
+Please try again later and for now, call me Homer and watch me Doh
+%
+< xenoterracide> yeah but I don't like making assumptions... 
+< xenoterracide> well sometimes I do 
+< xenoterracide> but then it bites me in my arse
+%
+< ciaranm> wheeee. now it's just four failing tests rather than four 
+           segfaulting tests.
+%
+< xenoterracide> omg I'm the first ;) do I get the retard award?
+%
+< xenoterracide> RDEPEND="|| ( 
+                 ~dev-lang/perl-5.8.8 
+				 ~perl-core/MIME-Base64-${PV} 
+				 )"
+				 what exactly does that line do? what do the ~ mean?
+< xenoterracide> what's the || a the beginning?
+%
+< Ingmar> My brain tends to rate everything !git based solely on how 
+          good the git-importer program for it is
+%
+< ciaranm> paludis killed my thinkpad
+%
+<@bonsaikitten> and it was quite amazing to see the reduced kde-herd
+                bootstrap itself to this rather efficient pool of maniacs
+%
+<@Ken69267> mah brain is dead after calc today 
+<@desultory> ah, so it's just transitory for you, I'm like this all the time.
+%
+< ferdy> bzr is a joke built around Mark Shuttleworth's stupid requirements
+%
