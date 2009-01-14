@@ -2947,3 +2947,76 @@ Please try again later and for now, call me Homer and watch me Doh
 %
 < ferdy> bzr is a joke built around Mark Shuttleworth's stupid requirements
 %
+* bonsaikitten giggles, then farts, then giggles more
+%
+< ahf> Ingmar forced me
+%
+< ciaranm> DON'T MIND ME I'M WRITING RUBY BINDINGS AND MY BRAIN HURTS
+%
+<@bonsaikitten> I don't even pretend to be moral
+<@bonsaikitten> that's just dishonest :D
+%
+<@PSYCHO___> yngwin: i was thinking about linking unborn babies to your 
+             brain as remote hosts :D
+%
+< nadim> rjbs: and other perl ppl around here (and I see that you are 
+         quite a few) isn't it time to kill cpan as a repository and 
+		 get everything on github?
+%
+In my experience, line-ending mangement is a central use case for a version
+control system.
+  --John Whitley
+%
+<@bonsaikitten> as if I knew anything about QA!
+%
+< Battousai> this is #gentoo-kde 
+< Battousai> QA means nothing
+%
+< Civil> what is eom? 
+<@bonsaikitten> end if mind 
+<@bonsaikitten> it's when they lobotomize your common sense so you can
+                become a gentoo dev
+%
+< Aleister> but yeah Naib got a huge arse and thats why i like it :)
+%
+< ciaranm> we should switch to using bzr and launchpad. that'd be a good
+           way of scaring off idiots who think they can be a developer.
+%
+<Ingmar> that last die statement in pkg_setup() of the vmware ebuild is awesome
+<compnerd> oh god, that is /special/ 
+<Ingmar> In that shortbus kind of way :o 
+<compnerd> is it bad that I read that as scarabeus the first time around?
+%
+< reavertm> let's summarize - portage eclass has totally broken KDE 4.2
+            support, which ironically means that's it's the only eclass
+			allowing it to upgrade from 4.1 -> 4.2 :)
+%
+< berniyh> hm, is it intentional, that his name sounds like "revert 'em"?
+%
+< kloeri> igli seems to be constantly looking to pick a fight in my experience
+%
+< ciaranm> kloeri doesn't like being on christel's staff. it hurts his bottom.
+%
+< ciaranm> you're only allowed to lolfoo if foo does something stupid!
+%
+* reavertm dreams of more debianized/aptized portage
+%
+< chalkers> I love github more than life itself. github is the best thing 
+            that’s happened to everyone and everything!
+%
+* antarus is off to die in traffic
+%
+< Ingmar> mkelly32: testcase is 
+          [B[B[B[B[B[B[B[B[B[B[...][B[B[B[B[B[B[B[B[B[BThe patch!
+%
+< igli> i don't care if it's foo or bar or topiary.
+%
+<+Naib> I bet paludis handles that cause its great
+%
+<@defunkt> metro is definitely cool
+%
+< apetrini> ciaranm: tank you very much. I really appreciate your help
+%
+< ciaranm> fmccor: careful. the only person calling himself a bash expert
+           is the igliot.
+%
