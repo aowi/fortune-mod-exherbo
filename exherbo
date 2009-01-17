@@ -3020,3 +3020,58 @@ control system.
 < ciaranm> fmccor: careful. the only person calling himself a bash expert
            is the igliot.
 %
+< AnMaster> igli, and what is PMS?
+< igli> the bane of our life ;-)
+%
+< AnMaster> [on PMS] didn't contain the word "glob" according to kpdf
+< igli> that's cos it's a shell term originally, and shell is considered
+        beneath us.
+%
+< igli> PMS needs a rationale, tho i can't see paludroids going for that;
+        would be opening up to people who shouldn't be reading it or sth
+%
+< scarabeus> zmedico: the new portage rc is epic fail
+%
+< igli> scarabeus: all the work you've done in the last 3 years is crap.
+        it's total shit, everyone tells us.
+%
+[on the igliot]
+< arkanoid> it's a wonder he hasn't been kicked out of gentoo channels 
+            and mailing lists considering all his abuse of users and devs
+< arkanoid> you'd almost think that musikc + comrades weren't completely 
+            objective in their assessments of who does damage to the gentoo
+			project
+%
+< ciaranm> now now. diego worked hard to get to where he is today. he wasn't
+           always the epitome of himselfiness that he is now.
+%
+< seemant> they don't have the right to push fucking myfuckingsql on me
+%
+< ahf> so now my butt is blue 
+%
+< ahf> i didn't get any cock that evening :(
+%
+< kolla> let's just say that I dont expect any sensible answer in #gentoo
+%
+<@Ken69267> #gentoo is the most useless chan ever
+%
+< arkanoid> o zebraswein! o zebraswein! wie blaue sind deine Augen!
+%
+< ciaranm> rather surprisingly for gentoo, they got the requirements almost
+           right
+%
+<@remi`> darkside_, I'm on the gnome alias, I saw the damage loki_val caused
+         just a few minutes ago ;)
+%
+<@dberkholz> you could make emerge info encrypt --info to bugzie's gpg key
+%
+<@scarabeus> bonsaikitten: drunk commits are fine
+<@scarabeus> i removed lots of code from eclass when drunk
+<@scarabeus> cause i didnt care
+%
+< lazy_bum> scarabeus: http://wklej.org/id/40193/ -- made few changes to make
+            it work... but it doesnt work.
+%
+<ahf> i'm hacking C so i'm losing more braincells every hour than a normal
+      friday evening
+%
