@@ -3075,3 +3075,36 @@ control system.
 <ahf> i'm hacking C so i'm losing more braincells every hour than a normal
       friday evening
 %
+< Ingmar> ahf: that's the exception, standard procedure is to dump your mail
+          on some infra guys public_html :)
+%
+< ciaranm> paludis contexts are *useful*. they're not meaningless crappy
+           python backtraces.
+%
+Luca suggested (as usual) for me to look at Python, but I don’t really like
+Python that much myself, while the forced indentation may help to make the
+code more readable, take a look at Brian’s (ferringb) code and you will never
+say that Perl is the only SSL-based language (sorry Brian, but you know that
+I find your code quite encrypted).
+  -- Flameeyes
+%
+< reavertm> what doesn this ~ mean in package.mask anyway?
+%
+<@loki_val> Tommy[D]: vapier is better at breaking things than you'll ever
+            be, so that's probably a good idea :-P
+%
+< ciaranm> yay! now dvandyk is asking dleverton annoying questions instead
+           of me. need to keep on failing to make sure his score's higher
+		   than mine.
+%
+< reavertm> what's so wrong with zillion of separate dependency variables?
+%
+Asking more times doesn't change the answer, it just wastes more of my time
+responding instead of doing.
+  -- dberkholz
+%
+Gentoo has kindly be requested to transfer the domain (in 2005). It's still
+here but guess what... we direct to a cooler thing in the world! In 3...
+2... 1... bye!
+  -- Gentoo.be - redirects to exherbo.org
+%
