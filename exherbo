@@ -3108,3 +3108,320 @@ here but guess what... we direct to a cooler thing in the world! In 3...
 2... 1... bye!
   -- Gentoo.be - redirects to exherbo.org
 %
+<@yngwin> ah, i thought only 2008.0 profiles inherit base
+%
+< blueop_> I know irc, but Im not looking for warez
+%
+< ahf> soo i'm typing into the terminal that i pray that my stuff shows
+       up in your end
+%
+< zlin> it actually is a mystery how igli continues to be alive
+%
+< tanderson> oh, maybe I don't know what 'droid' means
+%
+< ahf> oh well, you can't get an std that you already have
+< ahf> so it's really a non-issue for me
+%
+< ahf> fun is to wake up with poo on your cock
+%
+< codestr0m> ferringb: english isn't your first language?
+%
+<@lu_zero> ciaranm dual xor is still encryption
+%
+<+rane> instead of doing surveys and referenda... we should give more
+        power to the council
+%
+< smorg> I can't believe this works. Go to school, find a mac, open a
+         terminal and start a screen session, start a reverse shell to
+	 localhost computer at home, background the process, detach the
+	 screen session, log out, mount the reverse tunnel using sshfs.
+%
+< nms> who runs Battousai? its spell checker needs fixing
+%
+* eekee is thinks of changing a query in source mage's xorg-server spell
+  to: "Apply patch to search for extra mesalib include files? (Slightly
+  more effective than sacrificing a goat but may break compile if the
+  moon is waxing gibbous)"
+%
+< smorg> do pkgcore and paludis use the same eclasses or do they
+         reimplement functionally equivilent ones?
+%
+* smorg is confused about what portage even does if 99% of the work is
+  done in bash.
+%
+< Ingmar> Yes, pity we won't ever become the mighty pile of shit that
+          portage code is :(
+%
+<Ingmar> Pity, a perl6 interpreter written in haskell, as part of system,
+         because we need autotools, would incite hilarious reactions
+	 from people :(
+%
+< Ingmar> free booze isn't a good reason to say igliotic things like *plop* :P
+%
+< Ingmar> Did you just do the unimaginable? To underestimate the
+          igliots stupidity?
+%
+< Ingmar> Because the intersection of people capable of writing exhereses &
+          people stupid enough to package workstation is empty :P
+%
+<@jokey> well I'm not screwed, I just use the app and it works for me
+%
+< reavertm> solar: what's the use case for using alternative ROOT anyway?
+< reavertm> isn't that something that the other pm developer usually bring
+            to discussion and what is practically for academic purpose only?
+%
+< zmedico> I know it's fun to sit around and invent new syntaxes with
+           old meanings
+< zmedico> but some people have better things to do :P
+%
+< ciaranm> panic over, zlin just sucks
+%
+< kloeri> berniyh: agreed - as much as I hate this sillyness I think Debian
+          is doing the right thing
+%
+< igli> don't forget proper multilib: 
+        http://dev.gentoo.org/~kanaka/auto-multilib/
+%
+<@Chainsaw> darkside_: Are we good to stable EAPI=1 ebuilds these days
+%
+< arachnist> JavaShin: there were some people trying to make a semi-usable
+             distro out of slackware. their project was named emerde and it
+	     ended up being, well, merde
+%
+< kloeri> Ingmar: glibc doesn't really have releases as drepper can't figure
+          out how to make a tarball
+%
+< trofi^w> ivanm: i know what xcb is. i was scared by asynchronousity of it :]
+< trofi^w> X11 is already rather complex, making it async won't simplify it :]
+%
+< webbhawk_h4x0r64> grae: when gnu is finished.. are they going to go
+                    closed source?
+%
+< HymnToLife> Apache is GNU, X is GNU, SSH is GNU
+%
+<compnerd> haha, compiz now has a council!
+<compnerd> I guess that answers your question of how compiz is going :-p
+%
+< ewomer> ew git stinks compared to svn
+%
+<Ingmar> Damnit, you tricked me into running that bzr stuff to see how long
+         it'd take. Now I have ZSH's vcs_info enabled to get that info in my
+	 prompt, and I kept getting one and a half screen of python
+	 backtraces every time my prompt updates
+%
+I need to tighten my focus so I can have a larger impact upon Gentoo
+with the time I have.
+  -- dberkholz
+%
+< Ingmar> If anything, Gentoo will never use DEPENDENCIES because most
+          gentoo devs can't spell it
+%
+* igli chuckles
+< igli> (er sorry, just that you're slowly taking ideas from a 
+        "retarded bash script" which is amusing)
+%
+< Oompa> I feel like a prostitute when I do PHP for money :(
+%
+< ciaranm> the whole "one hour" thing is another great way donnie invented
+           of avoiding doing anything
+%
+< spb> nah, the others don't have quite the same talent for organisational
+       sabotage through bureaucratic idiocy
+%
+<+rane> funny thing, when i was thinking how to get more interest for the
+        election, an idea of starting a flamewar crossed my mind
+%
+< ahf> if i didn't know that was a guy, i'd really fuck it
+%
+< Dense> having /bin, /sbin, /usr/bin and /usr/sbin seems very obsolete
+         now (even though i understand why all 4 existed in the past)
+%
+< igli> new to vcs tbh, all seems a bit magical
+%
+* bonsaikitten likes cvs
+<@bonsaikitten> simple tools for simple minds :)
+%
+<@nightmorph> see, i can't properly make your mom jokes in this channel,
+              because everyone's mom is dead
+%
+Sigh I wish I could find more time to write on the blog since there are so
+many /important/ things I have to write about
+  -- flameeyes
+%
+< spbecker> the new wpa_supplicant raped me
+< spbecker> with errorf's big black vibrating dildo
+%
+I expect, if LANG is set to html (if this locale would exist), that if
+a file a.html contains <&gt;> and i make 'cat a.html' then '<' sould
+appear on the console.
+  -- Frank Schwidom
+%
+< berniyh> freeciv should actually be renamed to freegentoo, only that you
+           can't develop any techs anymore and there is war all the time
+%
+< reavertm> please rather ask some paludis guru to add support for it, and
+            please don't quote PMS, as it's written by exherbo developers
+	    thus it does not apply
+%
+< darkside_> the purpose of the PMS is to also involve red tape and stiffles
+             innovation ;)
+%
+<@lu_zero> I'd rather mold upstream to behave
+%
+< bonsaikitten> can't one just look for a line containing "EAPI" "=" 
+                "(anything else)" and work with that? ;)
+< bonsaikitten> grep EAPI | cut -d "=" -f 2
+%
+< dev-zero> and you can't have foo-1.2.ebuild and foo-1.2.ebuild where one
+            of them has "properties=live" in it
+<@lu_zero> dev-zero why not?
+%
+< darkside_> 55 is the best glep i have seen =/
+%
+< ciaranm> lu_zero: please point me to the legitimate technical
+           objections to 55
+<@lu_zero> ciaranm I do not need any
+%
+<@lu_zero> ferdy proper education teaches that everybody is wrong
+%
+< tanderson> Betelgeuse: your logs confused me for the longest time. I though
+             11.01.2008 was November :(
+%
+<+Sput> nothing displays moar verbose backtraces than paludis!
+%
+< ciaranm> mkelly32: ok, your vote counts since you agree with me
+%
+< Philantrop> dagger: Ruby is basically a glorified BASIC. It shouldn't
+              take long to grasp it. :-)
+%
+< ciaranm> mmm. note to self: dvd+rs will not burn if you have a normal dvd
+           in the drive underneath
+%
+< dziadu> in ebuild i have SRC_URI="`xxx-snapshot-date -%y%m%d`.tar.gz"
+          (more less)
+%
+< dberkholz> unless by first you mean most chronologically recent
+%
+beside, didn’t Firefox change name after release 1?
+  -- flameeyes
+%
+<@Mr_Bones_> ^^^^ how about fixing up that package so it's actually useful
+             instead of just blinding doing what flameeyes told you to do.
+%
+<arkanoid> gah, I need a debian box!
+%
+< antarus> you could seriously take teh top 20 gentoo-x86 committers and
+           jsut fire everyone else
+%
+< raxas> ivanm: maybe some people use paludis just because portage has
+         no emo "pink" use flag...
+%
+< smorg> paludis was alright though. I can see why developers would like
+         working with the c++ eclasses
+%
+* darkside_ thinks all keywords should be enabled by default ;)
+<@darkside_> "works until proven not"
+%
+< loki_val> You don't do stuff like this and then leave people who object
+            at the mercy of Ciaran and friends. That's just not ok.
+%
+< reavertm_> ha! you certainly want to add some syntactic sugar to the
+             specs infidel!
+%
+<+christel> Calchan: r, t'was me, i uhm, whoised myself instead of the
+            spamming user, and er, copy-pasted our ip in
+%
+<+bonsaikitten> uberpinguin: it makes me realize that while sucky I'm still
+                above average as a coder
+%
+<+uberpinguin> bonsaikitten: I'm no coder myself, but I've read that ruby
+               doesn't exactly lend quality to a project
+%
+<+bonsaikitten> end
+<+bonsaikitten> end
+<+bonsaikitten> end
+<+bonsaikitten> I love pascal derivatives and their stupid syntax
+%
+<+bonsaikitten> marenz: it's the little syntactical lwi uthla4tytg vzsd
+                ltzsdfg that make it so funny
+%
+<@bonsaikitten> f*ck firefox and git with a rusty pitchfork
+<@bonsaikitten> I don't need that windows feeling
+%
+<@quantumsummers|a> rane, bonsaikitten, beandog: would I file this under core
+                    system or baselayout or ...
+<@bonsaikitten> oh be quiet
+%
+<+Naib> for "f" in *; do [[ -f $f ]] && mkdir "$f"; done
+%
+< ciaranm> i think it's right though. at least until next time you ask me, by
+           which point i'll think it's a dumb idea
+%
+< dsal> oliver_g_: It took me ~21 minutes to do a branch, and around an hour
+        and a half to send back my 47 line change to a project a couple days
+	ago (all through bzr). launchpad makes me very sad.
+%
+<Ingmar> I wouldn't bother, shallow clones are more impaired than scarabeus'
+         brain afaic
+%
+< jam3s2001> Aleister, because I want to use gentoo, and I really like the
+             gentoo community here, and one day I'm going to get tina_'s hot
+	     man butt
+%
+<+illuminata> god fucking damn you stupid ass black people
+%
+<Ingmar> He's special alright, haven't really worked out whether he's the
+         kinda of special I like :p
+%
+< spb> GNU\colossus: there is no foolproof method of installing kde4 on
+       gentoo, because the people maintaining the ebuilds for it are fools
+%
+< ciaranm> tanderson: stay away from the complex technical arguments. they
+           don't understand them.
+%
+< jam3s2001> xkcd has turned me on to simple.wikipedia.org which is by far
+             the greatest site in the universe
+%
+< solar> it's trivial to make a parser open up an eclass to get it's EAPI
+         upon the word inherit.
+%
+< Dracie> lol i was so mad when i got banned i rm -rf / my gentoo chroot
+%
+< ciaranm> well, he wasn't running around with chicken feathers in his shoes
+           screaming "I AM QUEEN MARY"
+< ciaranm> i guess that's my standard for sanity in gentoo these days
+%
+< antarus> I just don't want be like jakub and get into a bug war
+           with some user
+%
+< Betelgeuse> I have always wanted to test xattr based cache
+%
+< ferringb> honestly I started this whole war via forcing a solution rather
+            then listening to people bitch
+%
+< darkside_> paludis is written in c++, so..who knows =P
+%
+< Dracie> Well I know I am being logged so that means you guys will always
+          have this log to look at and be like oh we were a bunch of retards
+	  that forgot how to even use xchat...
+%
+< antarus> and i think Zac just does gets high before writing any code
+%
+< antarus> I feel like I've become solar now ;p < antarus> 'no changes!'
+%
+ferringb ) I'm going to brain the next fucker who makes a stupid ass comment
+           about typing, language choice, or vcs choice
+%
+<@nightmorph> tanderson: here's some food for thought, though: maybe we
+              shouldn't do per-package eclasses
+%
+<@Betelgeuse> packages can just source stuff out of $FILESDIR jsut fine
+%
+<@vapier> i dont spec things
+<@vapier> i just do it
+%
+<@vapier> and i dont have to deal with retards to try and get it
+          spec-ed out in PMS
+%
+< alip> filko: don't know, i don't use gentoo
+%
