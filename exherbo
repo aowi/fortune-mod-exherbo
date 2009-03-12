@@ -3425,3 +3425,154 @@ ferringb ) I'm going to brain the next fucker who makes a stupid ass comment
 %
 < alip> filko: don't know, i don't use gentoo
 %
+<@nightmorph> but, if the only thing using this eclass will be mips-sources,
+              then i think you've overlooked the point of eblits, which is
+              to not use per-package eclasses
+%
+< arkanoid> any indication what solution the council will choose?
+< spb> probably whatever makes the least technical sense but appeases the
+       most idiots
+%
+< reavertm> well it was quite fun seeing paludis users watching their PM
+            crash in spontanious way :)
+%
+* jmbsvicetto burns reavertm in the fire
+%
+< ciaranm> in the mean time... i need a shower... gotta wash council out
+           of my head...
+%
+<@scarabeus> jmbsvicetto: i like reavers atitude
+<@scarabeus> it never hurts breaking some other packagemanager :D
+%
+<+rane> [to bonsaikitten] you don't contribute there anything, just want
+        to annoy ciaranm
+%
+< qubit> ypcx: nothing wrong with -O3. -O4 is where it starts getting dangerous
+%
+< ypcx> i've almost packed the blackbox jvm into the initrd and used
+        java.util.regex.Pattern to solve that problem
+%
+< aknm> so he set forth to understand suffering and find a stop to it
+< SpiriteH> Does anyone know the name of the tool gnome uses for network
+            management? =/
+%
+< zong_sharo> i'm get it right? is portage devs just doesn't know what
+              they're doing?
+< zmedico> s/portage devs/gentoo devs/
+%
+< antarus> but be afraid; some code I wrote got included into gmail ;)
+%
+<@scarabeus> jmbsvicetto: btw dont want to sound weird, but we can grab
+             exherbo ~ keywords and use them even without testing (just
+             an idea, cause they already did it, right?)
+%
+<@`Kumba> but doesn't use/local.desc define the valud local USE flags as
+          well, or can it, in the absence of that file, assume what's
+          stated in IUSE is authorative?
+%
+<@bonsaikitten> keep your politics out of my code, you freedom-hating gnus!
+%
+< Philantrop> ciaranm: No, certainly not. If most of the council members ran
+              off a cliff, the problem would be solved, too. :->
+%
+< ahf> i've probably used more tampax than you, bitch
+%
+<@bonsaikitten> oh how I love rm -rf to reset git repos to a sane state :)
+%
+< ciaranm> i'd credit your average PE teacher with the same IQ as a
+           reasonably smart dog...
+%
+<@dberkholz> people can keep on calling the wiki unofficial all day long,
+             and i'll keep just using it ...
+%
+<@antarus> ferringb: never underestimate the incompetance of college students
+%
+<@antarus> beandog: I smell like cheese and I haven't gotten fired yet
+%
+<+Sput> bonsaikitten: wait, I though pkgcore was the backtrace generator? :>
+%
+< leio-dl> I don't care about arguing about nonsense. static initialization
+           is a disaster waiting to happen anyway.
+%
+< vav> arggh, my dog ate my dongle, grub won't run anymore!
+%
+< kstangl> fowler: 'supported' is more important than 'usable' for a package
+           manager, guess what paludis isn't
+%
+< eternaleye_> Holy crap, bonsaikitten is ridiculously creepy, crazy and dumb.
+               I think he's a sociopath
+%
+< antarus> pms is just a spec < antarus> people violate specs all the time
+%
+< jedahan> wow, gentoo devmanual is well formatted, and looks informative
+< jedahan> ....why am i so apprehensive reading it though
+%
+<@Ken69267> now go use your paludis virus to infect people with the mindset
+            that we need git now
+%
+<@Chainsaw> But would the majority of devs file "bonsaikitten doesn't like
+            it" as a pro or con I wonder.
+%
+<@bonsaikitten> I would randomly delete half the tree by accident
+%
+<@bonsaikitten> nah, I'm just a simple person
+<@bonsaikitten> I like C
+<@bonsaikitten> I like cvs
+<@bonsaikitten> I like OpenRC
+%
+<@bonsaikitten> the git UI makes me not understand branches
+%
+< jlec> EAPI="2" rocks
+<@dragonheart> jlec: thats the spirit - just gism at the thought of what
+               EAPI=3 will give you
+%
+< reavertm> for eclass development only -O saves the day
+%
+< arkanoid> I figured the twatrick award gave me permission to rant about
+            stuff I don't know anything about, spew random poison in all
+            directions, act like the useless moron I am and of course,
+            join gentoo and be revered in their halls
+%
+<+spb> anyone using bzr deserves whatever they get, including no echangelog
+       support
+%
+< wjoel> Ingmar: I disable the recommended_tests options,then i reinstall
+         paludis
+< wjoel> Ingmar: Then paludis can't be used anymore
+%
+< alip> lol i accidentally importare'd an empty dir as paludis-scm :D
+%
+<@hwoarang> but portage doesnt support jpeg output
+%
+< Viperlin> gentoo still has the sanest init system i've ever known
+< Viperlin> i literally want its babies
+%
+<@quantumsummers> it bothers me a little that he is using it to disparage
+                  gentoo by the statement before it redirects
+<+rane> one could call that blackmail
+%
+< antarus> I limit my drunken irc antics to work irc only
+%
+< Ingmar> If he's anything like a grown-up ahf he'd've fallen asleep by now..
+%
+< bonsaikitten> a single person can achieve quite a lot
+< bonsaikitten> just have to ignore the stupid ;)
+<+rane> like zmedico?
+%
+< ybit> do i need to still use USE flags when installing gentoo or can i
+        disregard them since i will be installing paludis?
+%
+< djanderson> ^^ I agree, Portage is a bit tangly. Every time decide to dive
+              in, I open up __init__ and just hold down "j" and scroll for
+              like 45 seconds, then give up heh...
+%
+* reavertm speaks for himself/gentoo
+%
+tuomov : FOSS is such crap that it won't work under cygwin
+%
+< zmedico> that's the beauty of working on portage. everything appears to
+           by your fault :P
+%
+< Ingmar> If there's one silly gnome program whose name should've started
+          with a fucking *G*, the name it F-spot
+%
