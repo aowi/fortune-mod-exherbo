@@ -3576,3 +3576,242 @@ tuomov : FOSS is such crap that it won't work under cygwin
 < Ingmar> If there's one silly gnome program whose name should've started
           with a fucking *G*, the name it F-spot
 %
+< ciaranm> the problem with glep 55 is that people who don't understand it
+           think they have a right to have an opinion on it
+%
+< ciaranm> realistically, there're a dozen people who understand metadata
+           generation, and most of them aren't gentoo developers
+%
+<@bonsaikitten> I guess that was another sober commit
+<@bonsaikitten> I should not do that :)
+%
+<@bonsaikitten> it's not my fault that you have the social skills of a
+                cucumber ;)
+%
+<@antarus> also drobbins writes terrible python ;p
+%
+<+kloeri> applying the cvs workflow to git is wrong even if you could do it
+<@bonsaikitten> so git is wrong as a consequence
+%
+<+spb> trying to evaluate version control systems while avoiding political
+       issues is like trying to port glibc to a new hardware architecture
+       while avoiding code changes
+%
+<@antarus> there is something to be said for half-assed code that just works
+%
+<@bonsaikitten> rbu: did I ? strange ...
+* bonsaikitten claims incompetence
+%
+< kloeri> sad day when I can't troll the kitten because he's too stupid
+          to notice it
+%
+< vapier> it's weird seeing so many coreutils tests actually pass
+%
+<@dberkholz> which line is that on the spreadsheet?
+%
+< ciaranm> lu_zero: compare that with the number of packages for which
+           people are shipping -scm ebuilds
+<@lu_zero> ciaranm I hope none as well
+<@lu_zero> since means that either upstream or the packager is insane
+%
+< rbrown> Ingmar: oh, it breaks. well I supposed in the spirit of not being
+          gentoo I should at least have a look
+%
+< arkanoid> someone please take luzer_o to #outback and beat the crap out of
+            him and some sense into him
+< kloeri> arkanoid: I think he's immune to sense
+< kloeri> I'm all for beating him up however
+%
+< Battousai> you got some kinda problem with killing one bird with an
+             assload of stones?
+%
+<+rane> it's a fork since it's composed of our former devs ...
+* rane officially claims exherbo back for gentoo
+%
+< ciaranm> it's all fun and games until someone loses a /bin/sh...
+%
+< arkanoid> I think rane and others are getting increasingly frustrated
+            that they can't take cheap shots at exherbo wihtout sounding
+            like morons
+%
+< bonsaikitten> no need to accept gravity either :)
+%
+<@welp> WHY THE FUCK DO I HAVE A SEXY HITLER PHOTO ON THERE
+%
+< zlin> lulz > exherbo
+%
+<@yngwin> i think between bonsaikitten and me we have enough p hate in
+          this channel to raise the temperature in hell :p
+%
+<@ulm> and he overlooks one thing, namely that users are a great asset
+%
+You may remove Ion and Riot (among my other projects) from the list of
+programs using Darcs (on the wiki). Reason: no version for the most viable
+*nix platform of the day, Cygwin.
+  -- tuomov
+%
+< tanderson> is it a problem that I can not remember gentoo's equivalent
+             of WORKDIR?
+%
+< ivanm> but the _real_ goal of this library is to have a package on
+         hackage that dons _won't_ make a PKGBUILD for :p
+%
+< trofi> i think it's not hard to write bash evaluator in haskell :]
+%
+<@antarus> lets try to umm keep the penis conversation to the
+           appropriate channel
+%
+< ahf> yes, i smell a bit like horse shit
+%
+<@dberkholz> --as-needed bug in a fortran library. life sucks
+%
+<@bonsaikitten> I've disabled tests because half of system packages
+                don't have working tests
+%
+<+bonsaikitten> LjL: I am quite amused that people claim I have special powers
+%
+< ahf> speaking of being stupid, i miss a handler for 2 instructions now
+       and then i've written a brainfuck interpreter in standard ml
+%
+< ciaranm> we need a new UpstreamIsRetardedMask class
+< ciaranm> Masked by: davidz
+%
+<@bonsaikitten> somehow communication doesn't work
+%
+< mkelly32> irc is for suckers
+< spbecker> s/suckers/people who don't have a complete physical breakdown
+            when more than one person disagrees with them simultaneously/
+%
+< kloeri> oh dear, now they're competing for the stupidest name for
+          docompress in #gentoo-dev
+< rbrown> that's the sort of competition someone in there can win
+%
+< solar> slonopotamus: it is tomorrow today if you are looking from the
+         perspective of yesterday
+%
+< ciaranm> why must this all be such a pain in the ass?
+< ciaranm> oh. yeah. so ferris gets paid.
+%
+< Mr_Bones_> wow pcheck barfs all over mips-sources-2.6.27.18.ebuild
+< Mr_Bones_> backtrace-o-rama
+%
+<@bonsaikitten> portage causes a constant whine, paludis doesn't
+%
+< ahf> how much cock've you got in your lifetime ciaranm?
+%
+< alip> did you know some of my friends published a fanzine named
+        after my penis? :P
+%
+<@Ken69267> mah memory only goes back a week before it all becomes
+            dancing bacon
+%
+<@antarus> why the fuck isn't it in the FAQ
+<@antarus> why don't we have a FAQ?
+%
+<@Ken69267> tanderson: thats because paludis can't even install anything
+            in the first place
+%
+At any rate please remember to disable browser anonymisers when you want to post comments on my blog
+  -- failtwat
+%
+< solar> zmedico: yeah. But I'm only concerned with the gentoo family.
+         All that inbreeding I want to put behind me
+%
+<@yngwin> and i'm a bit of a "ricer" ;)
+%
+< EvaSDK> damn, nirbheek screwed another ebuild dropping eutils !
+%
+< adeel> AllenJB, 1 website that works for ALL screen sizes doesn't
+         really mesh well with the *nix philosophy...imho
+%
+< xenoterracide> anything can be a matter of opinion
+%
+< ed-209_> one last time, I have a VISTA win33 windows microsoft question
+           about running mplayer as a service
+%
+< PuffTheMagic> i mean if i never get this error when i build it manually,
+                but only when using a PM that uses sandbox, i dont see how
+                its _not_ a sandbox issue
+%
+< likewhoa> jmbsvicetto: here is an idea, create a private userrel group
+            on my site that way you guys can keep up with eachother's
+	    discussions
+%
+< rbrown> sorry, I don't help people who think the everything set is something
+          that should ever be used
+%
+< spbecker> maybe I'm just cynical, but trolls like twatrick will never let
+            that happen
+%
+< replica> gregkh would start the book with a whole chapter about why bzr, and
+           by extension ubuntu, sucks :)
+%
+<@bonsaikitten> half the time you need to offer some people a testicle
+                removal to keep the discussion acceptable
+%
+< reavertm> running emerge is like launching fork bomb...
+%
+< reavertm> dleverton: the point is, if exherbo (or any other) guys would
+            like to accomplish something on that list, they (you) should
+	    select more communicative person (like you for example)
+%
+< mrpouet> when nirbeek import and submitted my patches for cpufreq gpm-2.24
+           to the portage tree he forgot a important thing
+%
+<@scarabeus> isnt 9999 allways treated as highest by portage?
+%
+* solar votes that this be the last council ever
+%
+<@lu_zero> src_test should not run beside on repoman extended checks...
+%
+* Ingmar finds dleverton_ in the Guiness World Record book under
+  "youngest grumpy old man"
+%
+<@lu_zero> ciaranm user system having src_test enable is a failure by itself
+%
+< igli> meh ebuild.sh is a load of cruft
+%
+<@jmbsvicetto> loki_val: One of the errors is: ../innobase/srv/.libs/
+               libsrv.a(srv0srv.o):srv0srv.c:(.text+0x0): first defined here
+%
+<+AllenJB> RMS may not have ever actually explicitly said the BSD is not
+           a free license, but you can easily tell that's what he thinks
+%
+< D0pamine> i lost the will to live after the 4th hour on the toilet
+%
+zlin ) I really don't see why ops should be allowed to lie like that and
+       then silence people calling them out on it
+edit_21 ) history of -chat
+%
+< rbrown> If you danefags can communicate in English better than the native
+          English speaker you're arguing with, you're probably wasting your
+	  time arguing with an imbecile.
+%
+<+bonsaikitten> stop talking about inserting things through the rear
+                exit please
+%
+< alloy> Actually, I normally wouldn't even bother with ignore, as I laugh
+         at the social ineptness of people like codestr0m and making a fool
+	 out of themselves, but it was just a too good of a chance to try
+	 it out :)
+%
+< mkelly32> i'm also not banned from teh forums. but, i have a self-imposed
+            ban on stupidity, so i don't go there.
+%
+< spatz> beurocracy is needed to change a bug summary? sheesh
+%
+< antarus> tanderson: the kitten is heavily biased ;)
+%
+< ciaranm> yes, but it produced useful results, which i can use to back up
+           my highly biased statistic
+%
+< kloeri> there's no ambiguity, just people doing it wrong :p
+%
+< ciaranm> if pkgcorpse weren't even worse than portage it might be easier
+           to convince people that portage needs to die for gentoo to live
+%
+< ciaranm> i think ponies are tasty
+%
+< ciaranm> uh oh, did rbrown get mrs rbrown pregnant?
+< zlin> I haven't kept statistics but quite frequently :p
+%
